@@ -1,0 +1,4 @@
+Array merupakan tipe data terstruktur/tersusun berguna untuk menyimpan sejumlah data yang bertipe sama.
+
+
+Matriks adalah struktur penyimpanan data di dalam memori utama yang individu elemennya diacu dengan menggunakan dua buah indeks (yang biasanya dikonotasikan dengan baris dan kolom)
